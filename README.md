@@ -9,5 +9,3 @@ The input value is stored in state and updates live as you type.
 2. State updates via `onChange`.
 3. React is the source of truth — this is the **controlled component pattern**.
 
-4. ##React controlled component means that component is managed by its state and its ui is dependent upon its state this can be either stateful or stateless
-stateful means whcih needs to remener the previous state to update the current state
